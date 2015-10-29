@@ -1,2 +1,2 @@
-# TMultiplier[www.tmultiplier.com]
-This is pinteresting web application created by amit[https://github.com/Aks04]
+# TMultiplier(www.tmultiplier.com)
+This is pinteresting sample web application created by [Amit Kumar Singh](https://github.com/Aks04)
