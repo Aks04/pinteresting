@@ -1,4 +1,10 @@
-$body-bg : #f1c40f ;
-$navbar-default-bg : #f39c12 ;
-$navbar-default-link-color : white ;
+.navbar-brand {font-weight: bold;}
+$body-bg : #ecf0f1;
+$navbar-default-brand-color: #c0392b  ;
+$jumbotron-bg : white ;
+$navbar-height:40px;
+$navbar-defacult-bg :white;
+$navbar-default-link-color : black ;
+@import "bootstrap-sprockets" ;
 @import 'bootstrap';
+.center {text-align: center;}
