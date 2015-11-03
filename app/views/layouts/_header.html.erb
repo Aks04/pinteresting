@@ -20,6 +20,7 @@
         <li><%= link_to "home" , root_path %></li>
         <li> <%= link_to " about us" , about_path %> </li>
         <li> <%= link_to " stygol" , stygol_path %> </li>
+        <li><%= link_to "Account Settings", edit_user_registration_path %></li>
         <% if user_signed_in? %>
           <li><%= link_to "Log out", destroy_user_session_path, method: :delete %></li>
         <% else %>
